@@ -3,7 +3,7 @@ sfPropel15Plugin
 
 Replaces symfony's core Propel plugin by the latest version of Propel, in branch 1.5.
 
-**This is my personal fork. For the official sfPropel15Plugin repository, please visit [https://github.com/propelorm/sfPropel15Plugin](https://github.com/propelorm/sfPropel15Plugin).**
+**This is my personal fork of the propelorm/sfPropel15Plugin, renamed to propelorm/sfPropelORMPlugin. For the official sfPropel15Plugin repository, please visit [https://github.com/propelorm/sfPropelORMPlugin](https://github.com/propelorm/sfPropelORMPlugin).**
 
 Installation
 ------------
